@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  MessagesApp
+
+  Created by Stefanny Toro Ramirez on 31/05/22.
+  
+*/
+
+"POSTS_TITLE" = "Posts";
+"POST_TITLE" = "Post";
+"SERVICE_GENERAL_ERROR_TITLE" = "Something went wrong...";
+"SERVICE_GENERAL_ERROR_MESSAGE" = "Sorry, we are experiencing some internal issues. Please try again later.";
+"OK" = "OK";
